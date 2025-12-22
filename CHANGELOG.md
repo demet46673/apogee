@@ -18,3 +18,4 @@
 - docs: fix a small wording issue
 - docs: add a note about the defaults
 - chore: link the usage section
+- chore: clarify the setup steps
