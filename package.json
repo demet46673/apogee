@@ -1,6 +1,6 @@
 {
   "name": "apogee",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "Private AI summarizer for anything you read. Inspired by Mozilla's Orbit.",
   "main": "src/index.js",
   "scripts": {
